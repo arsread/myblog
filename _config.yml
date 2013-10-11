@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://arsread.cc:1024
+title: ArsRead's Blog
+subtitle: -But the rain is full of ghost tonight.
+author: ArsRead
 simple_search: http://google.com/search
 description:
 
