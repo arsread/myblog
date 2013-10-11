@@ -17,6 +17,7 @@ categories:
 {% img /images/pre/34_1.jpg %}
   
 歌手50强海报的很草稿。小二看完第一句话：“那么多圈圈，你做春晚吗？”  
+<!--more-->
   
 {% img /images/pre/34_2.jpg %}
   
