@@ -32,6 +32,7 @@ note：
 从59分钟开始的一小段。  
 这部是我个人观影史第一的电影，也是另外一部难得在电影院圆了胶片梦的电影。这段奔跑不长，但是对爱情追逐的那种勇气，通过雨、雨伞等等前因后果巧妙的设置，非常淋漓且细腻地表现了出来。  
 配乐是松隆子自己弹的。顺便晒一下当时的票ww  
+{% img /images/blog_imgs/20131014.jpg %}
   
 4.《买凶拍人》  
 <embed src="http://player.youku.com/player.php/sid/XMzM5NjUyMDIw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>  
