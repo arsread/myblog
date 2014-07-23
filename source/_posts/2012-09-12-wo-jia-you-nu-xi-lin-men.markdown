@@ -4,7 +4,7 @@ title: "我家有女喜临门"
 date: 2012-09-12 19:42
 comments: true
 categories:
-- iDaily
+- Daily
 - Life看见碎片
 ---
 《笑林广记》里有这么一则故事：  
